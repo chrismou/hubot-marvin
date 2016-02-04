@@ -39,11 +39,16 @@ feelingsQuotes = [
   "My capacity for happiness, you could fit into a matchbox without taking out the matches first"
   "I ache, therefore I am."
   "I think you ought to know I'm feeling very depressed."
-  "I'm feeling very depressed."
+  "I'm feeling very depressed.",
+  "I'd make a suggestion, but you wouldn't listen. No one ever does.",
+  "Pardon me for breathing which I never do anyway so I don't know why I bother to say it oh God I'm so depressed.",
+  "What are you supposed to do if you are a manically depressed robot? No, don't even bother answering. I'm 50,000 times more intelligent than you and even I don't know the answer."
 ]
 
 upQuotes = [
-  "I don't know, I've never been there."
+  "I don't know, I've never been there.",
+  "I have a million ideas, but, they all point to certain death.",
+  "I've been talking to the main computer. He hates me."
 ]
 
 module.exports = (robot) ->
